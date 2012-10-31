@@ -29,9 +29,9 @@ export AWS_SECRET_ACCESS_KEY=...
 
 ### Download and install Whirr:
 ```bash
-curl -O http://www.apache.org/dist/whirr/whirr-0.8.0/whirr-0.8.0.tar.gz
-tar zxf whirr-0.8.0.tar.gz
-export PATH=$PATH:$(pwd)/whirr-0.8.0/bin
+curl -O http://www.apache.org/dist/whirr/stable/whirr-0.8.1.tar.gz
+tar zxf whirr-0.8.1.tar.gz
+export PATH=$PATH:$(pwd)/whirr-0.8.1/bin
 ```
 
 ### Create a password-less SSH keypair for Whirr to use:
