@@ -23,8 +23,8 @@ Run the following commands from you local machine.
 
 ### Set your AWS credentials as environment variables:
 ```bash
-export AWS_ACCESS_KEY_ID=...
-export AWS_SECRET_ACCESS_KEY=...
+read AWS_ACCESS_KEY_ID
+read AWS_SECRET_ACCESS_KEY
 ```
 
 ### Download and install Whirr:
